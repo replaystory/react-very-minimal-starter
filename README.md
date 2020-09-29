@@ -4,9 +4,11 @@ React Very Minimal Starter is the smaller installation of React with Babel loade
 
 ## Installation
 
-git clone git@github.com:replaystory/react-very-minimal-starter.git
+git clone https://github.com/replaystory/react-very-minimal-starter.git
 
 ## Setup
+
+cd react-very-minimal-starter
 
 npm install
 
