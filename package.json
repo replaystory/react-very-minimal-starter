@@ -1,0 +1,23 @@
+{
+  "name": "react-very-minimal-starter",
+  "version": "1.0.0",
+  "description": "A very minimal React starter",
+  "main": "./src/index.js",
+  "scripts": {
+    "build": "webpack --mode development",
+    "build:prod": "webpack --mode production",
+    "watch": "webpack-dev-server --hot --mode development --open"
+  },
+  "author": "Olivier LE BORGNE",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "babel-loader": "^4.3.0",
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
